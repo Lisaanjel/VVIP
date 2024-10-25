@@ -11,7 +11,7 @@ WGET VPN SHARE
 
 ### UDP
 ```
-wget https://raw.githubusercontent.com/Lisaanjel/Autoscript-by-vpnshare/udp/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+wget https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/udp/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
 ```
 
 ### WORK DI OS
